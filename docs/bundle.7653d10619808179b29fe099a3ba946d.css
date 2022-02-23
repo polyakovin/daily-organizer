@@ -65,8 +65,8 @@ button:focus {
 button, label, input[type="checkbox"] {
   cursor: pointer;
 }
-label.svelte-143fehd.svelte-143fehd{display:inline-block}.disabled.svelte-143fehd.svelte-143fehd{cursor:not-allowed}span.svelte-143fehd.svelte-143fehd{padding-left:4px;display:none}span.selected.svelte-143fehd.svelte-143fehd{display:inline-block}.hoverable-area.svelte-143fehd.svelte-143fehd{display:block}.hoverable-area.svelte-143fehd.svelte-143fehd:hover{background:rgb(254,255,188);background:linear-gradient(90deg,
-      rgba(254,255,188,.3) 0%,
-      rgba(255,255,255,0) 30%,
-      rgba(255,255,255,0) 100%
-    )}.hoverable-area.svelte-143fehd:hover span.svelte-143fehd{display:inline-block}li.done.svelte-143fehd label.svelte-143fehd{text-decoration:line-through;opacity:.5}.hoverable-area.svelte-143fehd>span.svelte-143fehd{user-select:none;-moz-user-select:none;-khtml-user-select:none;-webkit-user-select:none;-o-user-select:none;font-weight:900;cursor:pointer}.hoverable-area.svelte-143fehd>span.svelte-143fehd:hover{text-decoration:none}li.svelte-143fehd.svelte-143fehd{margin-bottom:2px}
+label.svelte-1fhk0gu.svelte-1fhk0gu{display:inline-block}.disabled.svelte-1fhk0gu.svelte-1fhk0gu{cursor:not-allowed}span.svelte-1fhk0gu.svelte-1fhk0gu{padding-left:4px;display:none}span.selected.svelte-1fhk0gu.svelte-1fhk0gu{display:inline-block}.hoverable-area.svelte-1fhk0gu.svelte-1fhk0gu{display:block}.hoverable-area.svelte-1fhk0gu.svelte-1fhk0gu:hover{background:rgb(254,255,188);background:linear-gradient(90deg,
+      rgba(162, 190, 255, .3) 0%,
+      rgba(255, 255, 255, 0) 30%,
+      rgba(255, 255, 255, 0) 100%
+    )}.hoverable-area.svelte-1fhk0gu:hover span.svelte-1fhk0gu{display:inline-block}li.done.svelte-1fhk0gu label.svelte-1fhk0gu{text-decoration:line-through;opacity:.5}.hoverable-area.svelte-1fhk0gu>span.svelte-1fhk0gu{user-select:none;-moz-user-select:none;-khtml-user-select:none;-webkit-user-select:none;-o-user-select:none;font-weight:900;cursor:pointer}.hoverable-area.svelte-1fhk0gu>span.svelte-1fhk0gu:hover{text-decoration:none}li.svelte-1fhk0gu.svelte-1fhk0gu{margin-bottom:2px}
